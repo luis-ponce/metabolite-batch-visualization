@@ -1,1 +1,1 @@
-This repository contains the code to generate graphs to visualize metabolites intensities/concentrations across batches
+This repository contains the code to generate graphs to visualize metabolite intensities/concentrations across batches. The data used in the notebook is not shared. Only the code and the format of the tables are important at this point
